@@ -1,0 +1,10 @@
+Linux
+
+# Test for bad sectors
+badblocks -sv /dev/device
+
+# Check SMART status:
+smartctl -t long /dev/device
+
+# Burn DVD
+growisofs -dvd-compat -Z /dev/sr0=/path/to/file.iso

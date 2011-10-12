@@ -1,0 +1,115 @@
+VIM
+
+~~Notes~~
+:w !sudo tee % - Save open document as root if you opened as user by mistake.
+
+~~Cursor movement~~
+h - left
+j - down
+k - up
+l - right
+w - jump by start of words
+W - jump by words
+e - jump to end of words
+E - jump to end of words (no punctuation)
+b - jump backward by words
+B - jump backward by words (no punctuation)
+0 - go to start of line
+^ - first non-blank character of line
+$ - go to end of line
+G - Go to the bottom of the document
+
+~~Insert Mode - Inserting/Appending text~~
+i - insert at cursor
+I - insert at start of line
+a - append after cursor
+A - append at end of line
+o - open line below current line
+O - open line above current line
+Esc - exit insert mode
+
+~~Editing~~
+r - replace a single character
+J - join line below to the current one
+cw - change to the end of word
+c$ - change to the end of line
+s - delete character at cursor and subsitute text
+S - delete line at cursor and substitute text
+xp - transpose two letters
+u - undo
+. - repeat last command
+
+~~Marking text (visual mode)~~
+v - start visual mode, mark lines, then do command (such as y-yank)
+V - start Linewise visual mode
+o - move to other end of marked area
+Ctrl+v - start visual block mode
+O - move to Other corner of block
+aw - mark a word
+ab - a () block (with braces)
+aB - a {} block (with brackets)
+ib - inner () block
+iB - inner {} block
+Esc - exit visual mode
+
+~~Visual commands~~
+> - shift right
+< - shift left
+y - yank (copy) marked text
+d - delete marked text
+~ - switch case
+
+~~Cut and Paste~~
+yy - yank (copy) a line
+2yy - yank 2 lines
+yw - yank word
+y$ - yank to end of line
+p - put (paste) the clipboard after cursor
+P - put (paste) before cursor
+dd - delete (cut) a line
+dw - delete (cut) the current word
+x - delete (cut) current character
+
+~~Exiting~~
+:w - save
+:wq - save and quit
+:q - quit
+:q! - quit and throw away changes
+
+~~Search/Replace~~
+/pattern - search for pattern
+?pattern - search backward for pattern
+n - repeat search in same direction
+N - repeat search in opposite direction
+:%s/old/new/g - replace all old with new throughout file
+:%s/old/new/gc - replace all old with new throughout file with confirmations
+
+~~Working with multiple files~~
+:e filename - Edit a file in a new buffer
+:bnext (or :bn) - go to next buffer
+:bprev (of :bp) - go to previous buffer
+:bd - delete a buffer (close a file)
+:sp filename - Open a file in a new buffer and split window
+ctrl+w s - Split windows
+ctrl+w w - switch between windows
+ctrl+w q - Quit a window
+ctrl+w v - Split windows vertically
+
+~~Spellcheck~~
+]s - Display next misspelled word
+[s - Display previous misspelled word
+]S - Display next bad word
+[S - Display previous bad word
+zg - Mark selected word as good
+zG - Mark selected word as good in internal list
+zw - Mark selected word as bad
+zW - Mark selected word as bad in internal list
+zug/zuG/zuw/zuW - Undo last zg/zG/zw/zW
+z= - Give a list of suggestions for bad word
+
+~~Features~~
+:setlocal spell spelllang=en_us - Enable Spellcheck
+:set nospell - Disable Spellcheck
+:syntax enable - Turn On Syntax Highlighting
+:syntax off - Turn Off Syntax Highlighting
+
