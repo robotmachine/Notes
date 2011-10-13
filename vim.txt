@@ -112,4 +112,3 @@ z= - Give a list of suggestions for bad word
 :set nospell - Disable Spellcheck
 :syntax enable - Turn On Syntax Highlighting
 :syntax off - Turn Off Syntax Highlighting
-
