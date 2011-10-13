@@ -1,0 +1,11 @@
+# Phone Pipe
+#
+# Syntax:
+# phone -t TITLE -l LABEL Message.
+#
+phone -l HandBrake -t "Encode Finished" Some-File.mkv is done.
+#
+# Looks like:
+# Notifo
+# [HandBrake] -- Encode Finished
+# Some-File.mkv is done.
