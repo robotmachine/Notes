@@ -1,0 +1,17 @@
+# for loops
+#
+# Prepend 's1e' to the beginning of all .avi files in ./
+for i in *.avi; do mv "$i" "s1e$i"; done
+#
+# Renaming files with sed.
+# In ./ replace all instances of "Bacon" with "Turnip" in files ending .avi
+for i in *.avi; do j=`echo $i | sed 's/Bacon/Turnip/g'`; mv "$i" "$j"; done
+#
+# In ./ remove the text "Horch" in files ending in .txt
+for i in *.txt; do j=`echo $i | sed 's/Horch//g'`; mv "$i" "$j"; done
+#
+# In ./ change the first 0 in a filename to a 1, but leave the following 0's (per file) alone.
+for i in *; do j=`echo $i | sed 's/0/1/'`; mv "$i" "$j"; done
+#
+# in ./ change the first . to a -, but leave the following .'s (per file) alone.
+for i in *; do j=`echo $i | sed 's/\\./\\-/'`; mv "$i" "$j"; done
