@@ -1,4 +1,5 @@
 # General bash/unix notes
+# savetest
 #
 # Move all .txt files from current dir and subdirs to ~/doc
 find . -name "*.txt" -exec mv {} ~/doc \;

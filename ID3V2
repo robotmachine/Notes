@@ -1,0 +1,18 @@
+# Notes about id3v2
+
+# Fields I Use
+# TYER :: Year
+# TIT2 :: Title
+# TALB :: Album Title
+# TPE1 :: Artist
+# TRCK :: Track Number / Optional Total Tracks
+# TCON :: Content Type (Genre)
+
+# Common fields to delete:
+# COMM : TENC : TSSE : APIC : TPE2 : TXXX : 
+
+
+id3v2 -l file.mp3 # List id3 tags for file.mp3
+id3v2 --TPOS "1/2" 01-* # Sets all files matching 01-* to be part of a set as 1 of 2 (As in disc 1 of 2)
+id3v2 -r TSSE *.mp3 # Removes the id3v2 frame TSSE from all .mp3 files
+ 
