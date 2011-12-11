@@ -50,6 +50,8 @@ ab - a () block (with braces)
 aB - a {} block (with brackets)
 ib - inner () block
 iB - inner {} block
+u - lowercase selection
+U - UPPERCASE selection
 Esc - exit visual mode
 
 ~~Visual commands~~
@@ -69,6 +71,34 @@ P - put (paste) before cursor
 dd - delete (cut) a line
 dw - delete (cut) the current word
 x - delete (cut) current character
+
+~~Non-Latin Characters~~
+:digraphs - Displays all printable characters
+<CTRL>-k - begins digraph (insert mode)
+	   Press unadorned letter followed by a symbol for the appropriate diacritic mark:
+! - grave (è)
+' - acute (é)
+> - circumflex (ê)
+< - Caron (ě)
+? - tilde (ñ)
+- - macron (ē)
+( - breve (ĕ)
+. - dot above (ė)
+: - diaeresis (ë)
+, - cedilla (ç)
+_ - underline (ḇ)
+/ - stroke (đ)
+; - Ogonek (ę)
+2 - hook (ẻ)
+9 - horn (ơ)
+= - Cyrillic (д)
+* - Greek (α)
+% - Greek/Cyrillic special (ђ)
++ - lowercase: Arabic, UPPERCASE: Hebrew (س ע)
+3 - Latin/Greek/Cyrillic (ґ)
+4 - Bopomofo (ㄜ)
+5 - Hiragana (い)
+6 - Katakana (ィ)
 
 ~~Exiting~~
 :w - save
