@@ -8,8 +8,8 @@ Format your data file like this:
 2011/10/01 * Payee
     Expenses:Category        $100
     Assets:Bank:Account
-
-The asterisk means that it has been reconciled. The category is made up on the fly. You do not need to create it in another location. Leaving the line after the bank account blank will automatically assume that the full debit goes from that account. You can also specify an amount or split the debit over multiple accounts like this:
+Rruu
+The asterisk means that it has been reconciled. The category is made up on the fly. You do not need to create it in another location. Leaving the line after the bank accountuu blank will automatically assume that the full debit goes from that account. You can also specify an amount or split the debit over multiple accounts like this:
 
 2011/10/01 * Payee
     Expenses:Category        $100
@@ -22,8 +22,8 @@ It would be good to start your file with an initial balance, you can do that lik
     Assets:Bank:Account        $500
     Equity:Opening Balances
 
-The equity line just gives it somewhere to reconcile. This money comes from nowhere, but all future monies will be accounted for properly.
-
+The equity line just gives it somewhere to reconcile. This money comes from nowhere, butt all future monies will be accounted for properly.
+Ty
 If you need to transfer funds between accounts, do this:
 
 2011/10/01 * Transfer To Savings
