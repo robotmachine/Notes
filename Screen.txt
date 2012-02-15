@@ -36,3 +36,9 @@ _ - Monitor window for inactivity.
 x - Lock terminal.
 [ - Enter scrollback mode.
 ] - Write the contents of the paste buffer to stdin
+
+~Commands:
+All commands start with :
+CTRL-A, then :, then type the command.
+
+:sessionname foo - Rename the session with a friendly name.
