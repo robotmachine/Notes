@@ -17,7 +17,8 @@ B - jump backward by words (no punctuation)
 0 - go to start of line
 ^ - first non-blank character of line
 $ - go to end of line
-G - Go to the bottom of the document
+G - go to the bottom of the document
+gg - go to the top of the document
 
 ~~Insert Mode - Inserting/Appending text~~
 i - insert at cursor
@@ -26,13 +27,19 @@ a - append after cursor
 A - append at end of line
 o - open line below current line
 O - open line above current line
-Esc - exit insert mode
+
+~~Change~~
+ciw - change word under cursor
+ci" - change double quoted string (keeps the quotes)
+ci( - change text between parentheses
+ci[ - change text between parentheses
+cc - change the whole line (same as S)
+cw - change to the end of word
+c$ - change to the end of line
 
 ~~Editing~~
 r - replace a single character
 J - join line below to the current one
-cw - change to the end of word
-c$ - change to the end of line
 s - delete character at cursor and subsitute text
 S - delete line at cursor and substitute text
 xp - transpose two letters
@@ -52,7 +59,6 @@ ib - inner () block
 iB - inner {} block
 u - lowercase selection
 U - UPPERCASE selection
-Esc - exit visual mode
 
 ~~Visual commands~~
 > - shift right
