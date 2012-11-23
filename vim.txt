@@ -107,6 +107,8 @@ _ - underline (ḇ)
 6 - Katakana (ィ)
 
 ~~Exiting~~
+:x - save changes and exit -- only writes if there are changes
+:up - save
 :w - save
 :wq - save and quit
 :q - quit
