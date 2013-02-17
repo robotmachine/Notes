@@ -21,7 +21,7 @@ I feel that if there were an afterlife, punishment for evil would be reasonable 
 **_Religion and Science_ (1930)**  
 
 "To punish me for my contempt of authority, Fate has made me an authority myself."  
-**_Aphorism for a friend_ (18 September, 1930)    
+**_Aphorism for a friend_ (18 September, 1930)**    
 
 ## Hitchens, Christopher  
 "What can be asserted without evidence can also be dismissed without evidence."  
