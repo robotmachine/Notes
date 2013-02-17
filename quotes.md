@@ -1,12 +1,12 @@
 # Quotes #
   
   
-## Einstein, Albert ##  
+## Einstein, Albert  
 "Science, in consequence, has been accused of undermining morals—but wrongly. The ethical behavior of man is better based on sympathy, education and social relationships, and requires no support from religion. Man's plight would, indeed, be sad if he had to be kept in order through fear of punishment and hope of rewards after death."  
 **_Religion and Science_ (1930)**  
   
 
-## Asimov, Isaac ##  
+## Asimov, Isaac  
 "If I were not an atheist, I would believe in a God who would choose to save people on the basis of the totality of their lives and not the pattern of their words. I think he would prefer an honest and righteous atheist to a TV preacher whose every word is God, God, God, and whose every deed is foul, foul, foul.  
 I would also want a God who would not allow a Hell. Infinite torture can only be a punishment for infinite evil, and I don't believe that infinite evil can be said to exist even in the case of Hitler. Besides, if most human governments are civilized enough to try to eliminate torture and outlaw cruel and unusual punishments, can we expect anything less of an all-merciful God?  
 I feel that if there were an afterlife, punishment for evil would be reasonable and of a fixed term. And I feel that the longest and worst punishment should be reserved for those who slandered God by inventing Hell"  
@@ -22,12 +22,12 @@ I feel that if there were an afterlife, punishment for evil would be reasonable 
 **_The Planet That Wasn't_ (1975)**  
   
 
-## Hitchens, Christopher ##  
+## Hitchens, Christopher  
 "What can be asserted without evidence can also be dismissed without evidence."  
 **_God Is Not Great_ (2007)**  
  
   
-## Russel, Bertrand ##  
+## Russel, Bertrand  
 "Christ said 'Thou shalt love thy neighbor as thyself,' and when asked 'who is my neighbour?' went on to the parable of the Good Samaritan. If you wish to understand this parable as it was understood by his hearers, you should substitute 'German' or 'Japanese' for Samaritan. I fear many present-day Christians would resent such a substitution, because it would compel them to realize how far they have departed from the teachings of the Founder of their religion."  
 **_Unpopular Essays_ (1950)**  
   
@@ -35,7 +35,7 @@ I feel that if there were an afterlife, punishment for evil would be reasonable 
 **_Why I Am Not A Christian_ (1927)**  
   
   
-## Rushdie, Salman ##
+## Rushdie, Salman
 "I do not envy people who think they have a complete explanation of the world, for the simple reason that they are obviously wrong."  
 **_Interview With David Frost_ (1993)**  
   
