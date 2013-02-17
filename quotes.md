@@ -50,7 +50,7 @@ I feel that if there were an afterlife, punishment for evil would be reasonable 
 **_Interview With David Frost_ (1993)**  
   
 "The idea of the sacred is quite simply one of the most conservative notions in any culture, because it seeks to turn other ideas — uncertainty, progress, change — into crimes."  
-_Lecture at Herbert Reade Memorial_ (1990)**  
+**_Lecture at Herbert Reade Memorial_ (1990)**  
   
 "It matters, it always matters, to name rubbish as rubbish ... to do otherwise is to legitimize it."  
 **_"Outside The Whale" In Granta_ (1984)**  
