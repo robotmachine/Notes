@@ -1,17 +1,31 @@
-screen
+# [GNU screen](https://www.gnu.org/software/screen/)
 
-~~Options~~
--A | Adapt all windows to the new display width & height.
--list | Show list of current screens.
--r | Reattach session.
--R | Reattach session if there is one, otherwise start a new one.
+## Command Line Options
+Adapt all windows to the new display width & height.
+`$> screen -A`  
 
-~~Interactive~~
-Use CTRL-A to get screen's attention and then issue the following command:
-(for example, to go to the next screen hold CTRL and then press a. Release and then press n)
+Reattach session. If there are multiple it will list them.
+`$> screen -r`  
 
-~Common:
-" - List all windows and their titles.
+Show list of current screens.
+`$> screen -list`  
+`	1248.pts-0.robot-mk-x	(Detached)`  
+`	1241.pts-0.robot-mk-x	(Detached)`  
+`	753.pts-0.robot-mk-x	(Detached)`  
+`3 Sockets in /run/screens/S-brian.`  
+
+Reattach to a specific session
+`$ screen -r foo`
+
+Reattach session if there is one, otherwise start a new one.
+`$> screen -R`   
+
+## Interactive
+Use CTRL-a (^a) to get screen's attention and then issue the command.  
+(e.g., to go to the next screen hold CTRL and then press a. Release and then press n)
+
+### Common  
+`"` List all windows and their titles.  
 c - Create a new window.
 k - Destroy the current window.
 n - Next window.
