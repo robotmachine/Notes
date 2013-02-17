@@ -37,7 +37,7 @@ I feel that if there were an afterlife, punishment for evil would be reasonable 
 **_Letter From A Birmingham Jail_ (1963)**  
   
   
-"Actually, we who engage in nonviolent direct action are not the creators of tension. We merely bring to the surface the hidden tension that is already alive. We bring it out in the open, where it can be seen and dealt with. Like a boil that can never be cured so long as it is covered up but must be opened with all its ugliness to the natural medicines of air and light, injustice must be exposed, with all the tension its exposure creates, to the light of human conscience and the air of national opinion before it can be cured."
+"Actually, we who engage in nonviolent direct action are not the creators of tension. We merely bring to the surface the hidden tension that is already alive. We bring it out in the open, where it can be seen and dealt with. Like a boil that can never be cured so long as it is covered up but must be opened with all its ugliness to the natural medicines of air and light, injustice must be exposed, with all the tension its exposure creates, to the light of human conscience and the air of national opinion before it can be cured."  
 **_Letter From A Birmingham Jail_ (1963)**  
   
     
