@@ -1,14 +1,5 @@
 # General bash/unix notes  
   
-## find
-
-Move all .txt files from current dir and subdirs to ~/doc.    
-`find . -name "*.txt" -exec mv {} ~/doc \;`  
-  
-Move all .avi files that do not have sample in the title from current dir and subdirs to ~/vid.  
-`find . -iname "*.avi" ! -iname "*sample*" -exec mv {} ~/vid \;`  
-  
-The -name flag is case sensitive while the -iname flag is not.  
   
 ## rsync  
 Copy all *.avi files in /home/user/vid/ to ./ via SSH.  
