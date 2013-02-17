@@ -1,14 +1,15 @@
 # Quotes #
-## In no particular order. Added on top as I find them. ##
-
+  
+  
+## Einstein, Albert##  
 "Science, in consequence, has been accused of undermining morals—but wrongly. The ethical behavior of man is better based on sympathy, education and social relationships, and requires no support from religion. Man's plight would, indeed, be sad if he had to be kept in order through fear of punishment and hope of rewards after death."  
--- Albert Einstein 'Religion and Science' 1930  
+_Religion and Science_ 1930  
   
 "I am an atheist, out and out. It took me a long time to say it. I've been an atheist for years and years, but somehow I felt it was intellectually unrespectable to say one was an atheist, because it assumed knowledge that one didn't have. Somehow, it was better to say one was a humanist or an agnostic. I finally decided that I'm a creature of emotion as well as of reason. Emotionally, I am an atheist. I don't have the evidence to prove that God doesn't exist, but I so strongly suspect he doesn't that I don't want to waste my time."  
--- Isaac Asimov 'Free Inquiry' Spring 1982  
+_—Isaac Asimov 'Free Inquiry' Spring 1982_  
   
 "People are entirely too disbelieving of coincidence."  
--- Isaac Asimov 'The Planet That Wasn't' 1975  
+_—Isaac Asimov 'The Planet That Wasn't' 1975  
   
 "There are many aspects of the universe that still cannot be explained satisfactorily by science; but ignorance only implies ignorance that may someday be conquered. To surrender to ignorance and call it God has always been premature, and it remains premature today."  
 -- Isaac Asimov 'The "Threat" Of Creationism' 1981  
