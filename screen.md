@@ -7,7 +7,7 @@ Adapt all windows to the new display width & height.
 Reattach session. If there are multiple it will list them.
 `$> screen -r`  
 
-Show list of current screens.
+Show list of current screens.  
 `$> screen -list`  
 `	1248.pts-0.robot-mk-x	(Detached)`  
 `	1241.pts-0.robot-mk-x	(Detached)`  
