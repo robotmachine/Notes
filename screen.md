@@ -8,11 +8,11 @@ Reattach session. If there are multiple it will list them.
 `$> screen -r`  
 
 Show list of current screens.  
-`$> screen -list`  
-    `1248.pts-0.robot-mk-x	(Detached)`  
-    `1241.pts-0.robot-mk-x	(Detached)`  
-    `753.pts-0.robot-mk-x	  (Detached)`  
-`3 Sockets in /run/screens/S-brian.`  
+`$> screen -list  
+1248.pts-0.robot-mk-x	(Detached)  
+1241.pts-0.robot-mk-x	(Detached)  
+753.pts-0.robot-mk-x	  (Detached)  
+3 Sockets in /run/screens/S-brian.`  
 
 Reattach to a specific session
 `$ screen -r foo`
