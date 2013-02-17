@@ -19,12 +19,31 @@ I feel that if there were an afterlife, punishment for evil would be reasonable 
 ## Einstein, Albert  
 "Science, in consequence, has been accused of undermining morals—but wrongly. The ethical behavior of man is better based on sympathy, education and social relationships, and requires no support from religion. Man's plight would, indeed, be sad if he had to be kept in order through fear of punishment and hope of rewards after death."  
 **_Religion and Science_ (1930)**  
-  
+
+"To punish me for my contempt of authority, Fate has made me an authority myself."  
+**_Aphorism for a friend_ (18 September, 1930)    
 
 ## Hitchens, Christopher  
 "What can be asserted without evidence can also be dismissed without evidence."  
 **_God Is Not Great_ (2007)**  
- 
+  
+  
+## King Jr., Martin Luther
+"The tough mind is sharp and penetrating, breaking through the crust of legends and myths and sifting the true from the false. The tough-minded individual is astute and discerning. He has a strong austere quality that makes for firmness of purpose and solidness of commitment. Who doubts that this toughness is one of man's greatest needs? Rarely do we find men who willingly engage in hard, solid thinking. There is an almost universal quest for easy answers and half-baked solutions. Nothing pains some people more than having to think."  
+**_Strength to Love_ (1963)**   
+  
+  
+"We know through painful experience that freedom is never voluntarily given by the oppressor; it must be demanded by the oppressed."
+**_Letter From A Birmingham Jail_ (1963)**  
+  
+  
+"Actually, we who engage in nonviolent direct action are not the creators of tension. We merely bring to the surface the hidden tension that is already alive. We bring it out in the open, where it can be seen and dealt with. Like a boil that can never be cured so long as it is covered up but must be opened with all its ugliness to the natural medicines of air and light, injustice must be exposed, with all the tension its exposure creates, to the light of human conscience and the air of national opinion before it can be cured."
+**_Letter From A Birmingham Jail_ (1963)**  
+  
+    
+"Men often hate each other because they fear each other; they fear each other because they don't know each other; they don't know each other because they can not communicate; they can not communicate because they are separated."  
+**_Stride Toward Freedom: The Montgomery Story_ (1958)**   
+  
   
 ## Rushdie, Salman
 "I do not envy people who think they have a complete explanation of the world, for the simple reason that they are obviously wrong."  
