@@ -1,23 +1,23 @@
 # [GNU screen](https://www.gnu.org/software/screen/)
 
 ## Command Line Options
-Adapt all windows to the new display width & height.
+Adapt all windows to the new display width & height.  
 `$> screen -A`  
 
-Reattach session. If there are multiple it will list them.
+Reattach session. If there are multiple it will list them.  
 `$> screen -r`  
 
 Show list of current screens.  
-`$> screen -list  
-1248.pts-0.robot-mk-x	(Detached)  
-1241.pts-0.robot-mk-x	(Detached)  
-753.pts-0.robot-mk-x	  (Detached)  
-3 Sockets in /run/screens/S-brian.`  
+`$> screen -list`  
+`1248.pts-0.robot-mk-x	(Detached)`  
+`1241.pts-0.robot-mk-x	(Detached)`  
+`753.pts-0.robot-mk-x	  (Detached)`  
+`3 Sockets in /run/screens/S-brian.`  
 
-Reattach to a specific session
-`$ screen -r foo`
+Reattach to a specific session.  
+`$> screen -r foo`
 
-Reattach session if there is one, otherwise start a new one.
+Reattach session if there is one, otherwise start a new one.  
 `$> screen -R`   
 
 ## Interactive
@@ -26,13 +26,13 @@ Use CTRL-a (^a) to get screen's attention and then issue the command.
 
 ### Common  
 `"` List all windows and their titles.  
-c - Create a new window.
-k - Destroy the current window.
-n - Next window.
-p - Previous window.
-d - Detach this screen.
-
-~Regions:
+`c` **C**reate a new window.  
+`k` **K**ill the current window.  
+`n` **N**ext window.  
+`p` **P**revious window.  
+`d` **D**etach this screen.  
+  
+### Regions  
 S - Split in half vertically.
 | - Split in half horizontally.
 [tab] - Go to the next window.
