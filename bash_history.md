@@ -8,7 +8,7 @@ Run the last command that matches foo (anywhere in the line).
   
 Press `<ctrl>+r` to enter a reverse incremental history search. Enter executes the command when you find it. `<ctrl>+j` will bring it to the command line for editing.
   
-Return a numbered list of everything in history.
+Return a numbered list of everything in history.  
 `history`  
   
 Search with grep (-i for case insensitive).  
