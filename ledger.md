@@ -1,7 +1,5 @@
-Ledger
-http://ledger-cli.org
-
-This is an incomplete guide to using Ledger.
+# [Ledger](http://ledger-cli.org)  
+## This is an incomplete guide to using Ledger.
 
 Format your data file like this:
 
