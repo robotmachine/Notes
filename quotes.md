@@ -43,10 +43,11 @@ I feel that if there were an afterlife, punishment for evil would be reasonable 
     
 "Men often hate each other because they fear each other; they fear each other because they don't know each other; they don't know each other because they can not communicate; they can not communicate because they are separated."  
 **_Stride Toward Freedom: The Montgomery Story_ (1958)**   
-
+  
+  
 ## Orwell, George
-"The enemy is the gramophone mind, whether or not one agrees with the record that is being played at the moment."
-**_Unused preface to Animal Farm_ (c. 1945)**
+"The enemy is the gramophone mind, whether or not one agrees with the record that is being played at the moment."  
+**_Unused preface to Animal Farm_ (c. 1945)**  
   
   
 ## Rushdie, Salman
