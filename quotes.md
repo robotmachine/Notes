@@ -33,7 +33,7 @@ I feel that if there were an afterlife, punishment for evil would be reasonable 
 **_Strength to Love_ (1963)**   
   
   
-"We know through painful experience that freedom is never voluntarily given by the oppressor; it must be demanded by the oppressed."
+"We know through painful experience that freedom is never voluntarily given by the oppressor; it must be demanded by the oppressed."  
 **_Letter From A Birmingham Jail_ (1963)**  
   
   
