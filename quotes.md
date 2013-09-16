@@ -50,6 +50,10 @@ I feel that if there were an afterlife, punishment for evil would be reasonable 
 **_Unused preface to Animal Farm_ (c. 1945)**  
   
   
+"It is a feeling of relief, almost of pleasure, at knowing yourself at last genuinely down and out. You have talked so often of going to the dogs — and well, here are the dogs, and you have reached them, and you can stand it. It takes off a lot of anxiety."  
+**_Down and Out In Paris and London_ (1933)**  
+  
+  
 ## Rushdie, Salman
 "I do not envy people who think they have a complete explanation of the world, for the simple reason that they are obviously wrong."  
 **_Interview With David Frost_ (1993)**  
