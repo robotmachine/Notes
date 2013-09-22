@@ -71,3 +71,8 @@ I feel that if there were an afterlife, punishment for evil would be reasonable 
   
 "If everything must have a cause, then God must have a cause. If there can be anything without a cause, it may just as well be the world as God, so that there cannot be any validity in that argument. It is exactly of the same nature as the Hindu's view, that the world rested upon an elephant and the elephant rested upon a tortoise; and when they said, "How about the tortoise?" the Indian said, "Suppose we change the subject." The argument is really no better than that."  
 **_Why I Am Not A Christian_ (1927)**  
+  
+  
+## Watterson, Bill
+"In a culture that relentlessly promotes avarice and excess as the good life, a person happy doing his own work is usually considered an eccentric, if not a subversive."  
+**_Some Thoughts On The Real World By One Who Glimpsed It And Fled (Kenyon College Commencement)_ (20 May, 1990)**  
