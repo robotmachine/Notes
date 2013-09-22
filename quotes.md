@@ -73,6 +73,11 @@ I feel that if there were an afterlife, punishment for evil would be reasonable 
 **_Why I Am Not A Christian_ (1927)**  
   
   
+## Thoreau, Henry David  
+"The mass of men lead lives of quiet desperation. What is called resignation is confirmed desperation."  
+**_Walden_ (1854)**  
+  
+  
 ## Watterson, Bill
 "In a culture that relentlessly promotes avarice and excess as the good life, a person happy doing his own work is usually considered an eccentric, if not a subversive."  
 **_Some Thoughts On The Real World By One Who Glimpsed It And Fled (Kenyon College Commencement)_ (20 May, 1990)**  
