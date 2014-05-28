@@ -16,6 +16,11 @@ I feel that if there were an afterlife, punishment for evil would be reasonable 
 **_The Planet That Wasn't_ (1975)**  
   
   
+## Baldwin, James
+"One writes out of one thing only&mdash;one's own experience. Everything depends on how relentlessly one forces from the experience the last drop, sweet or bitter, it can possibly give.  
+**_Notes of a Native Son_ (1955)**
+  
+  
 ## Einstein, Albert  
 "Science, in consequence, has been accused of undermining morals—but wrongly. The ethical behavior of man is better based on sympathy, education and social relationships, and requires no support from religion. Man's plight would, indeed, be sad if he had to be kept in order through fear of punishment and hope of rewards after death."  
 **_Religion and Science_ (1930)**  
