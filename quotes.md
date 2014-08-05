@@ -1,5 +1,8 @@
 # Quotes #
   
+## Alighieri, Dante  
+"'This beast, the cause of your complaint, lets no one pass her way&mdash;but harries all to death. Her nature is so malign and vicious she cannot appease her voracity, for feeding makes her hungrier.'"  
+**_Il Inferno_ Canto I (c. 1300)**  
 ## Asimov, Isaac  
 "If I were not an atheist, I would believe in a God who would choose to save people on the basis of the totality of their lives and not the pattern of their words. I think he would prefer an honest and righteous atheist to a TV preacher whose every word is God, God, God, and whose every deed is foul, foul, foul.  
 I would also want a God who would not allow a Hell. Infinite torture can only be a punishment for infinite evil, and I don't believe that infinite evil can be said to exist even in the case of Hitler. Besides, if most human governments are civilized enough to try to eliminate torture and outlaw cruel and unusual punishments, can we expect anything less of an all-merciful God?  
