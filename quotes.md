@@ -33,6 +33,17 @@ I feel that if there were an afterlife, punishment for evil would be reasonable 
 "To punish me for my contempt of authority, Fate has made me an authority myself."  
 **_Aphorism for a friend_ (18 September, 1930)**    
 
+## Guthrie, Woody  
+"This song is Copyrighted in U.S., under Seal of Copyright #154085, for a period of 28 years, and anybody caught singin' it without our permission, will be mighty good friends of ours, cause we don't give a darn. Publish it. Write it. Sing it. Swing to it. Yodel it. We wrote it, that's all we wanted to do."  
+**_Letter to Fans_ (c. 1930s)**  
+
+
+"As I went walking I saw a sign there  
+And on the sign it said 'No Trespassing.'  
+But on the other side it didn't say nothing,  
+That side was made for you and me."  
+**_This Land Is Your Land_ (1956)**  
+
 ## Hitchens, Christopher  
 "What can be asserted without evidence can also be dismissed without evidence."  
 **_God Is Not Great_ (2007)**  
