@@ -70,7 +70,7 @@ That side was made for you and me."
 "The enemy is the gramophone mind, whether or not one agrees with the record that is being played at the moment."  
 **_Unused preface to Animal Farm_ (c. 1945)**  
 
-"[T]he whole aim of Newspeak is to narrow the range of thought? In the end we shall make thoughtcrime literally impossible, because there will be no words in which to express it. Every concept that can ever be needed, will be expressed by exactly one word, with its meaning rigidly defined and all its subsidiary meanings rubbed out and forgotten."  
+"[T]he whole aim of Newspeak is to narrow the range of thought[.] In the end we shall make thoughtcrime literally impossible, because there will be no words in which to express it. Every concept that can ever be needed, will be expressed by exactly one word, with its meaning rigidly defined and all its subsidiary meanings rubbed out and forgotten."  
 **_Nineteen Eighty-Four_ (1948)**  
  
 
