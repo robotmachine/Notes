@@ -58,7 +58,13 @@ I feel that if there were an afterlife, punishment for evil would be reasonable 
 ## Orwell, George
 "The enemy is the gramophone mind, whether or not one agrees with the record that is being played at the moment."  
 **_Unused preface to Animal Farm_ (c. 1945)**  
-  
+
+"[T]he whole aim of Newspeak is to narrow the range of thought? In the end we shall make thoughtcrime literally impossible, because there will be no words in which to express it. Every concept that can ever be needed, will be expressed by exactly one word, with its meaning rigidly defined and all its subsidiary meanings rubbed out and forgotten."  
+**_Nineteen Eighty-Four_ (1948)**  
+ 
+
+"Thoughtcrime does not entail death, thoughtcrime IS death."   
+**_Nineteen Eighty-Four_ (1948)**  
   
 "It is a feeling of relief, almost of pleasure, at knowing yourself at last genuinely down and out. You have talked so often of going to the dogs — and well, here are the dogs, and you have reached them, and you can stand it. It takes off a lot of anxiety."  
 **_Down and Out In Paris and London_ (1933)**  
