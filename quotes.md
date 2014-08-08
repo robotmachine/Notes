@@ -100,6 +100,11 @@ That side was made for you and me."
 **_Why I Am Not A Christian_ (1927)**  
   
   
+## Sartre, Jean-Paul  
+"Man is condemned to be free; because once thrown into the world, he is responsible for everything he does."  
+ **_Being and Nothingness_ (1943)**   
+  
+  
 ## Thoreau, Henry David  
 "The mass of men lead lives of quiet desperation. What is called resignation is confirmed desperation."  
 **_Walden_ (1854)**  
