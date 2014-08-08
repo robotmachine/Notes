@@ -108,3 +108,8 @@ That side was made for you and me."
 ## Watterson, Bill
 "In a culture that relentlessly promotes avarice and excess as the good life, a person happy doing his own work is usually considered an eccentric, if not a subversive."  
 **_Some Thoughts On The Real World By One Who Glimpsed It And Fled (Kenyon College Commencement)_ (20 May, 1990)**  
+
+
+## White, Ken
+"The furnace on a steam locomotive bound for San Francisco does not have a goal of reaching San Francisco; the furnace just burns what you throw into it to move the train along."  
+**_[The Allure of Unquestioned Premises: "The Internet's Own Boy: The Story of Aaron Swartz"](http://www.popehat.com/2014/08/07/the-allure-of-unquestioned-premises-the-internets-own-boy-the-story-of-aaron-swartz)_ (2014)**  
