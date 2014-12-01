@@ -102,6 +102,8 @@ That side was made for you and me."
 "[T]o be without some of the things you want is an indispensable part of happiness."  
 **_The Conquest of Happiness_ (1930)**  
   
+"[W]hen you have looked for some time steadily at the worst possibility and have said to yourself with real conviction, ‘Well, after all, that would not matter so very much’, you will find that your worry diminishes to a quite extraordinary extent.”   
+**_The Conquest of Happiness_ (1930)**  
   
 ## Sartre, Jean-Paul  
 "Man is condemned to be free; because once thrown into the world, he is responsible for everything he does."  
