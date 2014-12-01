@@ -92,12 +92,15 @@ That side was made for you and me."
 **_"Outside The Whale" In Granta_ (1984)**  
   
   
-## Russel, Bertrand  
+## Russell, Bertrand  
 "Christ said 'Thou shalt love thy neighbor as thyself,' and when asked 'who is my neighbour?' went on to the parable of the Good Samaritan. If you wish to understand this parable as it was understood by his hearers, you should substitute 'German' or 'Japanese' for Samaritan. I fear many present-day Christians would resent such a substitution, because it would compel them to realize how far they have departed from the teachings of the Founder of their religion."  
 **_Unpopular Essays_ (1950)**  
   
 "If everything must have a cause, then God must have a cause. If there can be anything without a cause, it may just as well be the world as God, so that there cannot be any validity in that argument. It is exactly of the same nature as the Hindu's view, that the world rested upon an elephant and the elephant rested upon a tortoise; and when they said, "How about the tortoise?" the Indian said, "Suppose we change the subject." The argument is really no better than that."  
 **_Why I Am Not A Christian_ (1927)**  
+  
+"[T]o be without some of the things you want is an indispensable part of happiness."  
+**_The Conquest of Happiness_ (1930)**  
   
   
 ## Sartre, Jean-Paul  
