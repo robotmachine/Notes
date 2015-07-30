@@ -26,6 +26,10 @@ I feel that if there were an afterlife, punishment for evil would be reasonable 
 "Hatred, which could destroy so much, never failed to destroy the man who hated and this was an immutable law."  
 **_Notes of a Native Son_ (1955)**
   
+## Coates, Ta-Nehisi  
+"I was only beginning to learn to be wary of my own humanity, of my own hurt and anger&mdash;I didn't yet realize that the boot on your neck is just as likely to make you delusional as it is to ennoble."  
+**_Between the World and Me_ (2015)**  
+
 ## Einstein, Albert  
 "Science, in consequence, has been accused of undermining morals—but wrongly. The ethical behavior of man is better based on sympathy, education and social relationships, and requires no support from religion. Man's plight would, indeed, be sad if he had to be kept in order through fear of punishment and hope of rewards after death."  
 **_Religion and Science_ (1930)**  
