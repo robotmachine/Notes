@@ -70,7 +70,7 @@ That side was made for you and me."
 **_God Is Not Great_ (2007)**  
 
 ## Holt, Jim <a name="holt">
-####"A Quick Proof That There Must Be Something Rather Than Nothing, for Modern People Who Lead Busy Lives"  
+**"A Quick Proof That There Must Be Something Rather Than Nothing, for Modern People Who Lead Busy Lives"**  
 "Suppose there were nothing. Then there would be no laws; for laws, after all, are something. If there were no laws, then everything would be permitted. If everything were permitted, then nothing would be forbidden. So if there were nothing, then nothing would be forbidden. Thus nothing is self-foridding. Therefore, there must be something. QED."  
 **_Why Does the World Exist?: An Existential Detective Story_ (2012)**  
   
