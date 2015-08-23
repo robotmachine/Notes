@@ -6,7 +6,7 @@
 * [James Baldwin]("#baldwin")
 * [Ta-Nehisi Coates]("#coates")
 * [Albert Einstein]("#einstein")
-* [Woody Guthrie}("#guthrie")
+* [Woody Guthrie]("#guthrie")
 * [Christopher Hitchens]("#hitchens")
 * [Martin Luther King, Jr.]("#mlk")
 * [George Orwell]("#orwell")
