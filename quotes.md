@@ -8,6 +8,7 @@
 * [Albert Einstein](#einstein)
 * [Woody Guthrie](#guthrie)
 * [Christopher Hitchens](#hitchens)
+* [Jim Holt](#holt)
 * [Martin Luther King, Jr.](#mlk)
 * [George Orwell](#orwell)
 * [Salman Rushdie](#rushdie)
@@ -67,6 +68,11 @@ That side was made for you and me."
 ## Hitchens, Christopher <a name="hitchens">
 "What can be asserted without evidence can also be dismissed without evidence."  
 **_God Is Not Great_ (2007)**  
+
+## Holt, Jim <a name="holt">
+###"A Quick Proof That There Must Be Something Rather Than Nothing, for Modern People Who Lead Busy Lives"  
+"Suppose there were nothing. Then there would be no laws; for laws, after all, are something. If there were no laws, then everything would be permitted. If everything were permitted, then nothing would be forbidden. So if there were nothing, then nothing would be forbidden. Thus nothing is self-foridding. Therefore, there must be something. QED."  
+""_Why Does the World Exist?: An Existential Detective Story"_ (2012)**  
   
 ## King Jr., Martin Luther <a name="mlk">
 "The tough mind is sharp and penetrating, breaking through the crust of legends and myths and sifting the true from the false. The tough-minded individual is astute and discerning. He has a strong austere quality that makes for firmness of purpose and solidness of commitment. Who doubts that this toughness is one of man's greatest needs? Rarely do we find men who willingly engage in hard, solid thinking. There is an almost universal quest for easy answers and half-baked solutions. Nothing pains some people more than having to think."  
