@@ -1,21 +1,21 @@
 # Quotes #
 
 ## Index
-* [Dante Alighieri]("#alighieri")
-* [Isaac Asimov]("#asimov")
-* [James Baldwin]("#baldwin")
-* [Ta-Nehisi Coates]("#coates")
-* [Albert Einstein]("#einstein")
-* [Woody Guthrie]("#guthrie")
-* [Christopher Hitchens]("#hitchens")
-* [Martin Luther King, Jr.]("#mlk")
-* [George Orwell]("#orwell")
-* [Salman Rushdie]("#rushdie)
-* [Bertrand Russell]("#russell")
-* [Jean-Paul Sartre]("#sartre")
-* [Henry David Thoreau]("#thoreau")
-* [Bill Watterson]("#watterson")
-* [Ken White]("$white")
+* [Dante Alighieri](#alighieri)
+* [Isaac Asimov](#asimov)
+* [James Baldwin](#baldwin)
+* [Ta-Nehisi Coates](#coates)
+* [Albert Einstein](#einstein)
+* [Woody Guthrie](#guthrie)
+* [Christopher Hitchens](#hitchens)
+* [Martin Luther King, Jr.](#mlk)
+* [George Orwell](#orwell)
+* [Salman Rushdie](#rushdie)
+* [Bertrand Russell](#russell)
+* [Jean-Paul Sartre](#sartre)
+* [Henry David Thoreau](#thoreau)
+* [Bill Watterson](#watterson)
+* [Ken White]($white)
 
 ## Alighieri, Dante <a name="alighieri">
 "This beast, the cause of your complaint, lets no one pass her way&mdash;but harries all to death. Her nature is so malign and vicious she cannot appease her voracity, for feeding makes her hungrier."  
