@@ -1,5 +1,8 @@
 # Quotes #
+
+(lettera)[A] | (letterb)[B]
   
+# A <a name="lettera">
 ## Alighieri, Dante  
 "This beast, the cause of your complaint, lets no one pass her way&mdash;but harries all to death. Her nature is so malign and vicious she cannot appease her voracity, for feeding makes her hungrier."  
 **_Il Inferno_ Canto I (c. 1300)**  
@@ -124,6 +127,6 @@ That side was made for you and me."
 **_Some Thoughts On The Real World By One Who Glimpsed It And Fled (Kenyon College Commencement)_ (20 May, 1990)**  
 
 
-## White, Ken
+## White, Ken <a name="
 "The furnace on a steam locomotive bound for San Francisco does not have a goal of reaching San Francisco; the furnace just burns what you throw into it to move the train along."  
 **_[The Allure of Unquestioned Premises: "The Internet's Own Boy: The Story of Aaron Swartz"](http://www.popehat.com/2014/08/07/the-allure-of-unquestioned-premises-the-internets-own-boy-the-story-of-aaron-swartz)_ (2014)**  
