@@ -1,6 +1,6 @@
 # Quotes #
 
-(lettera)[A] | (letterb)[B]
+(#lettera)[A] | (#letterb)[B]
   
 # A <a name="lettera">
 ## Alighieri, Dante  
