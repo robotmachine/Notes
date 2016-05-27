@@ -1,7 +1,7 @@
 # Quotes #
 
 ## Index
-[Dante Alighieri](#alighieri) | [Isaac Asimov](#asimov) | [James Baldwin](#baldwin) | [Ta-Nehisi Coates](#coates) | [Albert Einstein](#einstein) | [Woody Guthrie](#guthrie) | [Christopher Hitchens](#hitchens) | [Jim Holt](#holt) | [Martin Luther King, Jr.](#mlk) | [George Orwell](#orwell) | [Salman Rushdie](#rushdie) | [Bertrand Russell](#russell) | [Jean-Paul Sartre](#sartre) | [Henry David Thoreau](#thoreau) | [Bill Watterson](#watterson) | [Ken White]($white)
+[Dante Alighieri](#alighieri) | [Isaac Asimov](#asimov) | [James Baldwin](#baldwin) | [Ta-Nehisi Coates](#coates) | [Phillip K. Dick](#dick) | [Albert Einstein](#einstein) | [Woody Guthrie](#guthrie) | [Christopher Hitchens](#hitchens) | [Jim Holt](#holt) | [Martin Luther King, Jr.](#mlk) | [George Orwell](#orwell) | [Salman Rushdie](#rushdie) | [Bertrand Russell](#russell) | [Jean-Paul Sartre](#sartre) | [Henry David Thoreau](#thoreau) | [Bill Watterson](#watterson) | [Ken White]($white)
 
 ## Alighieri, Dante <a name="alighieri">
 "This beast, the cause of your complaint, lets no one pass her way&mdash;but harries all to death. Her nature is so malign and vicious she cannot appease her voracity, for feeding makes her hungrier."  
@@ -32,6 +32,10 @@ I feel that if there were an afterlife, punishment for evil would be reasonable 
 ## Coates, Ta-Nehisi <a name="coates">
 "I was only beginning to learn to be wary of my own humanity, of my own hurt and anger&mdash;I didn't yet realize that the boot on your neck is just as likely to make you delusional as it is to ennoble."  
 **_Between the World and Me_ (2015)**  
+
+## Dick, Phillip K. <a name="dick">
+"Reality is that which, when you stop believing in it, doesn't go away."  
+**_How to Build a Universe That Doesn't Fall Apart Two Days Later_ (1978)**  
 
 ## Einstein, Albert <a name="einstein">
 "Science, in consequence, has been accused of undermining morals—but wrongly. The ethical behavior of man is better based on sympathy, education and social relationships, and requires no support from religion. Man's plight would, indeed, be sad if he had to be kept in order through fear of punishment and hope of rewards after death."  
